@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+Hotel Booking App: 
+
+This App contains three modules such as login, Signup, Admin
+
+Admin:
+   Admin can create his ID by clicking the Create an account on the admin login page
+   Admin plays a major role in this project and can add hotels and room availability.
+   By clicking the add hotels, the admin can create the hotels 
+   By clicking View Bookings, the admin can check the user's details of who booked the rooms.
+   By clicking Add Rooms, the admin can add rooms. 
+
+Sign: 
+   The sign-up page is used to create the user profile. 
+
+Login:
+   The user can log in to the page after finishing the process.
+   The user can search for the location in the search bar and select the hotel.
+   By clicking on the hotel page the user can see the available if the room is available.
+   If the rooms are available, the user can click on "Show Rooms" select the room that is available and click on "Book" .It will redirect to the payment gateway.
+   Payment gateway is created using stripe
+   Kindly refer to the below link for the sample card reference
+   https://docs.stripe.com/testing 
+   Under the cards by brand category, you can take any one of the card numbers
+   
+   
+   
+   
+   # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
